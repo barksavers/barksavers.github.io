@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chryz B. - Personal Webpage</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #fff8dc; /* Light Yellow */
+            color: #333; /* Dark Gray */
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #ffeb3b; /* Yellow */
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        section {
+            margin-top: 20px;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #ffeb3b; /* Yellow */
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Chryz B. - Dog Mom</h1>
+    </header>
+
+    <section>
+        <p>Hello! I'm Chryz B., a proud dog mom of 3 and currently fostering 5 adorable dogs. I have a passion for
+            providing love and care to our furry friends.</p>
+
+        <p>Whether it's playing fetch, going on long walks, or just enjoying cuddle time, every moment with my dogs is
+            special. Join me on this journey of love and companionship!</p>
+    </section>
+
+    <footer>
+        <p>Follow me on social media for more doggy adventures!</p>
+        <!-- Add your social media links here -->
+    </footer>
+</body>
+
+</html>
